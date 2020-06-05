@@ -2,7 +2,7 @@
 
 This is Portfolio Template project, responsive for all types of devices. 
 
-View on [http://site-up.surge.sh/](http://site-up.surge.sh/)
+View on [http://portf-template.surge.sh/](http://portf-template.surge.sh/)
 
 I made the main focus in this project on Bootstrap4, on it's Utililies, Components, Layout system and JavaScript Widgets.
 For page rendering I used Collapse component of Bootstrap.
