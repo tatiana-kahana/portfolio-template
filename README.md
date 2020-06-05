@@ -6,7 +6,7 @@ View on [http://portf-template.surge.sh/](http://portf-template.surge.sh/)
 
 I made the main focus in this project on Bootstrap4, on it's Utililies, Components, Layout system and JavaScript Widgets.
 For page rendering I used Collapse component of Bootstrap.
-For picture gallery in "Project" i used a lightbox plugin based on the bootstrap modal plugin
+For picture gallery in "Project" I used a lightbox plugin based on the bootstrap modal plugin
 
 Technologies:
 
