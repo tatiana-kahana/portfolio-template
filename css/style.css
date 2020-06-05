@@ -1,0 +1,37 @@
+.bg-black {
+    color:white;
+    background: #000;
+}
+
+#main-header .portf-item {
+    width: 25%;
+}
+
+#main-header .portf-item:hover {
+    opacity: .8;
+    cursor: pointer;
+}
+.home {
+    background: #AC93B3;
+}
+.resume {
+    background: rgb(143, 135, 202);
+}
+.project {
+   background: rgb(112, 95, 243); 
+}
+.contact {
+    background: rgb(65, 38, 200);
+}
+.profile-img {
+    background: url(../img/person.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 1200px) {
+    .portf-item {
+     padding: 2.7em !important;   
+    }
+}
